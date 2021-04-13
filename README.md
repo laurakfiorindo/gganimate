@@ -4,7 +4,7 @@ Esse repositório possui um guia introdutório sobre o pacote **gganimate**, ten
 
 ![](Gifs/animggm.gif)
 
-O material foi construído a partir do *Rmarkdown*, dentro do RStudio, sendo possível acessar seu código no arquivo **.rmd** presente nesse projeto. Caso seja de interesse acessar o material em formato html, que não foi possível disponibilizar por conta do seu tamanho, basta clonar o projeto e rodar o script no RStudio. 
+O material foi construído a partir do *Rmarkdown*, dentro do RStudio, sendo possível acessar seu código no arquivo **.Rmd** presente nesse projeto. Caso seja de interesse acessar o material em formato html, que não foi possível disponibilizar por conta do seu tamanho, basta clonar o projeto e rodar o script no RStudio. 
 
 O guia está organizado seguindo a seguinte divisão:
 
